@@ -1,0 +1,9 @@
+Client id:
+68968329114-qhol4i5ukb9lid0gfntq2i71b5b3co0v.apps.googleusercontent.com
+
+Client token:
+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
+
+GOOGLE_CLIENT_ID = 68968329114-qhol4i5ukb9lid0gfntq2i71b5b3co0v.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET = 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
+GOOGLE_CLIENT_REDIRECT= http://127.0.0.1:8000/auth/google/callback
